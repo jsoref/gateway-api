@@ -737,7 +737,7 @@ Page review timeline, starting with the v1.3 Page Review:
   contact anyone who moves to Stale to inform them about this rule change.
 * Gateway API v1.4 release Page Review (at least one month after the actual
   release): A maintainer will perform the Page Review process again, removing
-  any implementations that are are still Stale (after a right-of-reply period).
+  any implementations that are still Stale (after a right-of-reply period).
 * Gateway API v1.5 release Page Review (at least one month after the actual
   release): We will remove the Stale category, and implementation maintainers
   will need to be at least partially conformant on each review, or during the
